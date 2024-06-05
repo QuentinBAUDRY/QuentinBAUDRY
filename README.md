@@ -9,8 +9,13 @@
 - 🔭 Je travaille en tant qu'**Administrateur Systèmes & Réseaux**.
 - 🌱 J'approfondis actuellement mes connaissances en **Docker, Arch Linux, et VMware**.
 - 💪 Compétences avancées en **VMware, Debian, ArchLinux, Veeam, Docker, Powershell, Windows Server**.
-- 🏎️ Passionné de **sport automobile**, j'aime suivre et participer à des événements liés.
 - 📫 Me joindre : **contact.quentin@baudry.cc**
+
+### 🤝 Mes passions :
+
+- 🏎️ Passionné de sport automobile, j'aime la F1 et tout autres événement automobiles.
+- 🎮 Passioné d'Esport je suis plusieurs scène compétitive.
+
 
 ### 🛠️ Technologies et Outils :
 
@@ -26,5 +31,5 @@
 ---
 
 <p align="center">
-  <b>🚀 Découvrez mes projets : https://baudry.cc</b>
+  <b>🚀 Découvrez mes projets : **https://baudry.cc**</b>
 </p>
