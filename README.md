@@ -1,43 +1,43 @@
 <h1 align="center">👋 Bonjour, je suis Quentin Baudry</h1>
 
-<p align="center">
-  <a href="https://baudry.cc">Site CV</a> •
-  <a href="mailto:contact.quentin@baudry.cc">Email</a>
-</p>
+<div align="center">
+  <a href="https://baudry.cc">
+    <img src="https://via.placeholder.com/150.png?text=Visitez+Mon+CV" alt="Visitez Mon CV" style="border-radius:50%"/>
+  </a>
+</div>
 
-<p align="center"><i>"Explorer, Optimiser, Sécuriser - Passionné de tech et de vitesse."</i></p>
-
----
-
-### Ce que je fais :
-
-Je suis un **Administrateur Systèmes & Réseaux** basé en Normandie, spécialisé dans la gestion et l'optimisation d'infrastructures complexes. Mon expertise couvre les systèmes VMware, Debian, Arch Linux, ainsi que des solutions de continuité d'activité avec Veeam et des orchestrations via Docker.
-
-### Mes spécialités incluent :
-
-- **Virtualisation** : Gestion et déploiement de solutions VMware.
-- **Systèmes d'exploitation** : Maintenance de serveurs sous Debian et Arch Linux.
-- **Backup et récupération** : Configuration de stratégies de sauvegarde efficaces avec Veeam.
-- **Containerisation** : Mise en œuvre et gestion de conteneurs avec Docker.
-- **Scripting et automatisation** : Amélioration des processus avec Powershell.
-
-### Un peu plus sur moi :
-
-En dehors de la technologie, je suis un grand passionné de **sport automobile**, impliqué tant au niveau local que national. Je trouve dans la vitesse et la précision de ce sport une parfaire métaphore de mon travail : chaque détail compte.
-
-### Outils et Technologies :
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="ArchLinux" />
-  <img src="https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white" alt="Veeam" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Powershell-5391FE?style=flat-square&logo=powershell&logoBuffer=white" alt="Powershell" />
-</p>
+<p align="center"><i>"L'optimisation est un art, la technologie en est la toile."</i></p>
 
 ---
 
+### 👨‍💻 À propos de moi :
+
+Je suis **Administrateur Systèmes & Réseaux** en Normandie, spécialiste des environnements VMware, Debian et Arch Linux. Ma passion pour la technologie se reflète dans mon travail, où chaque défi est une opportunité d'apprentissage et d'innovation.
+
+### 💡 Ce que je fais :
+
+- 🌐 **Gestion de Réseaux** : Assurer la sécurité et l'efficacité des réseaux.
+- 🖥️ **Solutions VMware** : Création et administration d'environnements virtualisés.
+- 🐧 **Linux Mastery** : Maintenance avancée sous Debian et Arch Linux.
+- 🚀 **Automatisation** : Scripting PowerShell pour automatiser les tâches administratives.
+
+### 🚗 Passion :
+
+En dehors de la technologie, je suis un fervent adepte du **sport automobile**. Cette passion pour la vitesse et la précision se traduit dans ma manière de résoudre les problèmes de manière rapide et efficace.
+
+### 🛠️ Technologies et Outils :
+
 <p align="center">
-  📬 <b>Pour collaborations et consultations, n'hésitez pas à me <a href="mailto:contact.quentin@baudry.cc">contacter</a>.</b>
+  <img src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Debian-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/ArchLinux-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white" alt="ArchLinux" />
+  <img src="https://img.shields.io/badge/Veeam-00B336.svg?&style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
+</p>
+
+---
+
+<p align="center">
+  <b>📬 Pour explorer des collaborations ou obtenir des conseils, <a href="mailto:contact.quentin@baudry.cc">contactez-moi ici</a>.</b>
 </p>
