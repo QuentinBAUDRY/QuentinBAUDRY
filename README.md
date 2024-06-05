@@ -21,8 +21,7 @@
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoBuffer=white" alt="Powershell" />
-</p>
+  <img src="https://img.shields.io/badge/Powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" /></p>
 
 ---
 
