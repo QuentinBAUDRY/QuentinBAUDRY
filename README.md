@@ -1,28 +1,31 @@
-<h1 align="center">Bonjour 👋, je suis Quentin Baudry</h1>
-<h3 align="center">Un passionné Administrateur Systèmes & Réseaux de France</h3>
+<h1 align="center">Salut 👋, je suis Quentin Baudry</h1>
+<h3 align="center">Administrateur Systèmes & Réseaux</h3>
 
 <p align="center">
-  <a href="mailto:contact.quentin@baudry.cc">Envoyez-moi un email 📨</a>
+  <a href="https://baudry.cc" target="_blank">Visitez mon site CV 🌐</a> |
+  <a href="mailto:contact.quentin@baudry.cc">Contactez-moi 📨</a>
 </p>
 
 ---
 
-### 🤝 Présentation :
+### 🤝 À propos de moi :
 
-- 👀 Je suis passionné par **l'optimisation des systèmes et la sécurisation des réseaux**.
-- 🔭 Actuellement, je travaille **en tant qu'Administrateur Systèmes & Réseaux**.
-- 🌱 Je suis en train d'apprendre **de nouvelles technologies cloud et des scripts d'automatisation**.
-- 💼 Je suis ouvert à des opportunités de travail où je peux **contribuer tout en continuant à apprendre et à me développer**.
-- 📫 Vous pouvez me joindre par email : **contact.quentin@baudry.cc**
+- 🔭 Je travaille en tant qu'**Administrateur Systèmes & Réseaux**.
+- 🌱 J'approfondis actuellement mes connaissances en **Docker, Arch Linux, et VMware**.
+- 💪 Compétences avancées en **VMware, Debian, ArchLinux, Veeam, Docker, Powershell, Windows Server**.
+- 🏎️ Passionné de **sport automobile**, j'aime suivre et participer à des événements liés.
+- 📫 Me joindre : **contact.quentin@baudry.cc**
 
 ### 🛠️ Technologies et Outils :
 
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <!-- Ajoutez d'autres badges technologiques selon vos compétences -->
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="ArchLinux" />
+  <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Doker" />
+  <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
 </p>
 
 ### 📈 Statistiques GitHub :
@@ -34,5 +37,5 @@
 ---
 
 <p align="center">
-  <b>Visitez mon profil pour voir mes projets 🚀</b>
+  <b>Découvrez mes projets et suivez mes avancées techniques 🚀</b>
 </p>
