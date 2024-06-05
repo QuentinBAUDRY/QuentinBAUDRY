@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, je suis Quentin Baudry</h1>
 <h3 align="center">Administrateur Systèmes & Réseaux</h3>
-<h4 align="center"> 🇫🇷 Localisation: Normandie, France</h4>
+<h4 align="center"> 🇫🇷 Localisation : Normandie, France</h4>
 
 ---
 
