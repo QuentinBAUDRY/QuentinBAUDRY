@@ -31,5 +31,5 @@
 ---
 
 <p align="center">
-  <b>🚀 Découvrez mes projets : **https://baudry.cc**</b>
+  <b>🚀 Découvrez mes projets : https://baudry.cc</b>
 </p>
