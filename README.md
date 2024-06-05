@@ -31,7 +31,7 @@
 ### 📈 Statistiques GitHub :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre_nom_d_utilisateur&show_icons=true&locale=fr" alt="votre_nom_d_utilisateur" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QuentinBAUDRY&show_icons=true&locale=fr" alt="QuentinBAUDRY" />
 </p>
 
 ---
