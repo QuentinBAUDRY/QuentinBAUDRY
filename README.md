@@ -38,7 +38,8 @@ En plus du **sport automobile**, je suis un grand fan d'**eSport**. Que ce soit 
 
 ### 📊 Mon Activité GitHub :
 
-![Quentin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=QuentinBAUDRY&theme=xcode&area=true)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
