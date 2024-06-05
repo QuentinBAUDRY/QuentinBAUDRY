@@ -2,11 +2,6 @@
 <h3 align="center">Administrateur Systèmes & Réseaux</h3>
 <h4 align="center">🌍 Localisation: Normandie, France</h4>
 
-<p align="center">
-  <a href="https://baudry.cc" target="_blank">Visitez mon site CV 🌐</a> |
-  <a href="mailto:contact.quentin@baudry.cc">Contactez-moi 📨</a>
-</p>
-
 ---
 
 ### 🤝 À propos de moi :
@@ -32,5 +27,5 @@
 ---
 
 <p align="center">
-  <b>🚀 Découvrez mes projets et connectez-vous pour des collaborations en visitant <a href="https://baudry.cc">mon site CV</a></b>
+  <b>🚀 Découvrez mes projets https://baudry.cc</b>
 </p>
